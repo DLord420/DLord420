@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything computer, specially coding.
 - 🌱 I’m done learning Python, and have added it to my long list of learned coding languages (Basic, Pascal, Cobol, C, C++, JS, and ofcourse Assembly which I hate!)
 - 💞️ I’m willing to collaborate on any non-profit computer programming projects.
-- 📫 I could be reached via email: survival@iname.com
+- 📫 I could be reached via email: DLord420@mail.com
 
 <!---
 DLord420/DLord420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
