@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moe (DLord)
 - 👀 I’m interested in anything computer, specially coding.
 - 🌱 I’m done learning Python, and have added it to my long list of learned coding languages (Basic, Pascal, Cobol, C, C++, JS, and ofcourse Assembly which I hate!)
-- 💞️ I’m willing to collaborate on any non-profit computer programming projects.
+- 💞️ I’m willing to collaborate on any non-profit programming/development project.
 - 📫 I could be reached via email: DLord420@mail.com
 
 <!---
