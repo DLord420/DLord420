@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/DLord420/DLord420/blob/main/Code.jpg"></div>    
+[<div align="center"><img src="https://github.com/DLord420/DLord420/blob/main/Code.jpg"></div>](https://github.com/DLord420)   
     
 -----  
 - 👋 Hi, I’m DLord (Moe).
