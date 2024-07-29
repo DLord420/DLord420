@@ -1,7 +1,7 @@
 <div align="center"><img src="https://github.com/DLord420/DLord420/blob/main/Code.jpg"></div>   
     
 -----  
-- 👋 Hi, I’m Moe (DLord).
+- 👋 Hi, I’m DLord.
 - 👀 I’m interested in anything computers, specially coding.  I started coding on [_C128_](https://en.wikipedia.org/wiki/Commodore_128), long long time ago.  
 - 🌱 I’m still practicing and learning new coding languages to add to my long list (Basic, Pascal, Cobol, C, C++, JS, Python, HTML, CSS, and of course Assembly which I _hate_!)    
 - ⭐ I'm currently developing apps for my personal use/needs, while having fun doing so.  :relaxed:    
