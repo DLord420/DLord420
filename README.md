@@ -8,7 +8,7 @@
 - 💞️ I’m willing to collaborate on any non-profit programming/development project.
 - 📫 I could be reached via email: DLord420@mail.com
     
-<div align="right"><img src="https://github.com/DLord420/DLord420/blob/main/Banner.png" width="200">
+<div align="right"><img src="https://github.com/DLord420/DLord420/blob/main/Banner1s.png" width="200">
 
 <!---
 DLord420/DLord420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
